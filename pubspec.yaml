@@ -1,10 +1,10 @@
 name: custom_haptics_pro
 description: A Flutter plugin for creating custom haptic feedback patterns on iOS using Apple's Core Haptics framework. Supports transient and continuous haptics with full intensity and sharpness control.
 version: 0.0.1
-homepage: https://github.com/yourusername/custom_haptics_pro
-repository: https://github.com/yourusername/custom_haptics_pro
-issue_tracker: https://github.com/yourusername/custom_haptics_pro/issues
-documentation: https://github.com/yourusername/custom_haptics_pro#readme
+homepage: https://github.com/poshie0456/custom_haptics_pro
+repository: https://github.com/poshie0456/custom_haptics_pro
+issue_tracker: https://github.com/poshie0456/custom_haptics_pro/issues
+documentation: https://github.com/poshie0456/custom_haptics_pro#readme
 
 topics:
   - haptics
